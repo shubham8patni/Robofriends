@@ -1,3 +1,23 @@
+#  ROBOFRIENDS Desktop View
+
+<img src="readmeimg/robo1.jpg" width="350px" height="120px" >
+
+
+#  ROBOFRIENDS Mobile View
+
+<img src="readmeimg/robo2.jpg" width="120px" height="400px" >
+
+
+#  ROBOFRIENDS Mobile View
+
+<img src="readmeimg/robo3.jpg" width="120px" height="400px" >
+
+#  ROBOFRIENDS Searchbar
+
+<img src="readmeimg/robo1.jpg" width="350px" height="120px" >
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
