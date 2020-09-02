@@ -1,20 +1,20 @@
 #  ROBOFRIENDS Desktop View
 
-<img src="readmeimg/robo1.JPG" width="350px" height="200px" >
+<img src="readmeimg/robo1.JPG" width="500px" height="270px" >
+
+<img src="readmeimg/robo5.JPG" width="500px" height="270px" >
 
 
 #  ROBOFRIENDS Mobile View
 
 <img src="readmeimg/robo2.JPG" width="360px" height="640px" >
 
-
-#  ROBOFRIENDS Mobile View
-
 <img src="readmeimg/robo3.JPG" width="360px" height="640px" >
+
 
 #  ROBOFRIENDS Searchbar
 
-<img src="readmeimg/robo1.JPG" width="350px" height="200px" >
+<img src="readmeimg/robo4.JPG" width="500px" height="270px" >
 
 
 
